@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://siddharthsameer.github.io/csb-9xe9f/static/css/main.ef4851f0.chunk.css",
+    "main.js": "https://siddharthsameer.github.io/csb-9xe9f/static/js/main.fcce89bb.chunk.js",
+    "main.js.map": "https://siddharthsameer.github.io/csb-9xe9f/static/js/main.fcce89bb.chunk.js.map",
+    "runtime-main.js": "https://siddharthsameer.github.io/csb-9xe9f/static/js/runtime-main.079168b3.js",
+    "runtime-main.js.map": "https://siddharthsameer.github.io/csb-9xe9f/static/js/runtime-main.079168b3.js.map",
+    "static/js/2.f607480a.chunk.js": "https://siddharthsameer.github.io/csb-9xe9f/static/js/2.f607480a.chunk.js",
+    "static/js/2.f607480a.chunk.js.map": "https://siddharthsameer.github.io/csb-9xe9f/static/js/2.f607480a.chunk.js.map",
+    "index.html": "https://siddharthsameer.github.io/csb-9xe9f/index.html",
+    "static/css/main.ef4851f0.chunk.css.map": "https://siddharthsameer.github.io/csb-9xe9f/static/css/main.ef4851f0.chunk.css.map",
+    "static/js/2.f607480a.chunk.js.LICENSE.txt": "https://siddharthsameer.github.io/csb-9xe9f/static/js/2.f607480a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.079168b3.js",
+    "static/js/2.f607480a.chunk.js",
+    "static/css/main.ef4851f0.chunk.css",
+    "static/js/main.fcce89bb.chunk.js"
+  ]
+}
